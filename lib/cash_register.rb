@@ -12,4 +12,8 @@ class CashRegister
     @title = title
   end
 
+  def apply_discount
+
+  end
+
 end
